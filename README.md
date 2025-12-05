@@ -1,5 +1,18 @@
 # TG Tasker Bot 🚀
 
+[![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Bot Status](https://img.shields.io/badge/status-live-brightgreen)](#)
+[![Made with ❤️ by gptonline.ai](https://img.shields.io/badge/Made%20by-gptonline.ai-red)](https://gptonline.ai)
+
+A powerful and customizable **Telegram bot** for managing task-based earning systems — ideal for crypto projects, airdrops, traffic exchanges, or SMM growth.
+...
+
+https://ibb.co/pv9YMnZM
+https://ibb.co/9H30WvG8
+https://ibb.co/TqhQYRPw
+# TG Tasker Bot 🚀
+
 A powerful and customizable **Telegram bot** for managing task-based earning systems — ideal for crypto projects, airdrops, traffic exchanges, or SMM growth.  
 Users earn **SD tokens** for completing tasks (e.g., subscribing to channels, commenting, liking), and admins can manage everything from a user-friendly panel.
 
@@ -58,7 +71,6 @@ With image and **“🚀 Start game”** button.
 
 - Python + Aiogram
 - SQLite / PostgreSQL
-- Redis (optional for cache/session)
 - Hosted on Railway / Render / VPS
 - Uses Telegram Bot API
 
@@ -67,7 +79,7 @@ With image and **“🚀 Start game”** button.
 ## 📦 Setup
 
 1. Clone repo  
-2. Create `.env` file (sample below)
+2. Edit config.py file (sample below)
 3. Run bot with `python bot.py` or use a process manager like `pm2` / `systemd`
 
 ```env
@@ -83,5 +95,3 @@ USDT_WALLET=your_wallet_address
 MIT — free to use, modify and contribute.
 
 ---
-
-Made with ❤️ by [gptonline.ai](https://gptonline.ai/) — your hub for powerful Telegram bots, automation, and crypto tools.
