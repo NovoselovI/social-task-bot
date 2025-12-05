@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Environment variables
+.env
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# VS Code files
+.vscode/
+
+# Mac & Linux system files
+.DS_Store
+*.swp
+
+# Log files
+*.log
+
+# Database / cache / session files
+*.sqlite3
+*.db
+*.pid
+
+# Python test files
+.pytest_cache/
+.coverage
+
+# Deployment & build folders
+build/
+dist/
+
+# PyInstaller
+*.spec
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Images / previews (optional)
+*.png
+*.jpg
+*.jpeg
+
+# Misc
+*.bak
+*.tmp
+# Socials
+for social/
