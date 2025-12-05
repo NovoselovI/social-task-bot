@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Bot Status](https://img.shields.io/badge/status-live-brightgreen)](#)
-[![Made with ❤️ by gptonline.ai](https://img.shields.io/badge/Made%20by-gptonline.ai-red)](https://gptonline.ai)
+
 
 A powerful and customizable **Telegram bot** for managing task-based earning systems — ideal for crypto projects, airdrops, traffic exchanges, or SMM growth.
 ...
